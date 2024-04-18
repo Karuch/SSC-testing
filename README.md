@@ -1,7 +1,10 @@
 # SSC-project
 <<<<<<< HEAD
+<<<<<<< HEAD
 Software which automate the process of changing substrings in files.
 =======
+=======
+>>>>>>> 3546624638d60fa16e280afb5131825f352d04dc
 
 
 
@@ -18,14 +21,22 @@ Already a pro? Just edit this README.md and make it your own. Want to make it ea
 
 ```
 cd existing_repo
+<<<<<<< HEAD
 git remote add origin https://gitlab.com/tal_docs/ssc-project.git
+=======
+git remote add origin https://gitlab.com/karuch/ssc-project.git
+>>>>>>> 3546624638d60fa16e280afb5131825f352d04dc
 git branch -M main
 git push -uf origin main
 ```
 
 ## Integrate with your tools
 
+<<<<<<< HEAD
 - [ ] [Set up project integrations](https://gitlab.com/tal_docs/ssc-project/-/settings/integrations)
+=======
+- [ ] [Set up project integrations](https://gitlab.com/karuch/ssc-project/-/settings/integrations)
+>>>>>>> 3546624638d60fa16e280afb5131825f352d04dc
 
 ## Collaborate with your team
 
@@ -94,4 +105,7 @@ For open source projects, say how it is licensed.
 
 ## Project status
 If you have run out of energy or time for your project, put a note at the top of the README saying that development has slowed down or stopped completely. Someone may choose to fork your project or volunteer to step in as a maintainer or owner, allowing your project to keep going. You can also make an explicit request for maintainers.
+<<<<<<< HEAD
 >>>>>>> a8692685554b3a4367a2932c86322527ee861f5e
+=======
+>>>>>>> 3546624638d60fa16e280afb5131825f352d04dc
