@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SSC-project
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -109,3 +110,7 @@ If you have run out of energy or time for your project, put a note at the top of
 >>>>>>> a8692685554b3a4367a2932c86322527ee861f5e
 =======
 >>>>>>> 3546624638d60fa16e280afb5131825f352d04dc
+=======
+# SSC-testing
+my ssc project but testing
+>>>>>>> e02c8e774e285b66cf615ce61ec05636468e9f6a
